@@ -12,7 +12,7 @@ const Features = () => {
         <div className="container">
           <SectionTitle
             title="Redefine Your Crypto Journe"
-            paragraph="seamlessly merging automated trading algorithms with the lucrative potential of passive income from staking rewards. Designed with a user-friendly interface, fortified by advanced security measures, and supporting a diverse array of cryptocurrencies, Alphavars is driven by a mission to empower individuals, enabling them to confidently and effortlessly engage in the dynamic realm of cryptocurrencies."
+            paragraph="seamlessly merging automated trading algorithms with the lucrative potential of passive income from staking rewards. Designed with a user-friendly interface, fortified by advanced security measures, and supporting a diverse array of cryptocurrencies."
             center
           />
 
