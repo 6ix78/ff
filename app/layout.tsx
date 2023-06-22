@@ -25,7 +25,7 @@ export default function RootLayout({
           {children}
           <Footer />
          <ScrollToTop />
-         <placeholder />
+         <Provider />
       </body>
     </html>
   );
